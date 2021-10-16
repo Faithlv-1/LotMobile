@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_EnrollAbility",
+      "value": "entry_EnrollAbility"
+    },
+    {
+      "name": "enrollability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "enrollability_HelloWorld",
+      "value": "你好，世界"
+    },
+    {
+      "name": "entry_Homepage",
+      "value": "entry_Homepage"
+    },
+    {
+      "name": "homepage_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "homepage_HelloWorld",
+      "value": "你好，世界"
+    }
+  ]
+}
